@@ -19,6 +19,6 @@
     border-radius: 15px;
 
 .forms-tabs li.active a, .forms-tabs li.active:hover a, .forms-tabs li.active:hover a:hover, .forms-tabs li.active:focus a, .forms-tabs li.active a:focus, .forms-tabs li.active:focus a:focus {
-    color: #ffffff !important;
-    background: #fbff26;
+    color: black !important;
+    background: #fac50a;
 }
