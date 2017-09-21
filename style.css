@@ -18,7 +18,9 @@
     padding: 6px 20px;
     border-radius: 15px;
 
-.forms-tabs li.active a, .forms-tabs li.active:hover a:hover, .forms-tabs li.active:focus a, .forms-tabs li.active a:focus, .forms-tabs li.active:focus a:focus {
-    color: black;
-    background: #fac50a;
+.btn-primary {
+    color: black !important;
+    background-color: #fac50a !important;
+    background-image: none !important;
+    border-color: #fac50a !important;
 }
