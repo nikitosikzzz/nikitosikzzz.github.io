@@ -9,8 +9,12 @@
     padding: 6px 20px;
     border-radius: 15px;
 }
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-color: #fac50a;
-
-
+.banner-avia h3 {
+    color: #fac50a;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: Impact, fantasy;
+    line-height: 60px;
 }
+
+
