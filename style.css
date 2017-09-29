@@ -13,7 +13,7 @@
 .h1, .h2, .h3, h1, h2, h3 {
     margin-top: 20px;
     margin-bottom: 10px;
-    color: #fac50a impotant;
+    color: #fac50a !important;
 }
 
 
