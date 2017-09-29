@@ -26,6 +26,8 @@
     margin-bottom: 37px;
     text-align: center;
 }
-.deals-description {
+
+.avia-search-form-wrap .avia-search-form .avia-search-form__change-type a:hover, .is-today .pika-button, .forms-tabs li:hover a, .forms-tabs li:hover a:hover, .nav-bar .mobile-menu .navbar-collapse ul li a:hover, .nav-bar .mobile-menu .navbar-collapse ul li a:focus, [data-wl-class~="HotelsIndex__deals"] .deals-description, [data-wl-class~="TabsList__TabsList--theme-hotel-page"] [data-wl-class~="MenuItem__MenuItem--isActive"] [data-wl-class~="MenuItem__inner"], [data-wl-class~="DropdownTrigger__value DropdownTrigger__value--product-railways"], [data-wl-class~="HotelsSerp__hotels"] [data-wl-class~="DropdownTrigger__value"], [data-wl-class~="StarRating__StarRating"], [data-wl-class~="HotelPageHeader__city"], [data-wl-class~="DropdownTrigger__value"]
+{
     color: #cc5151;
 }
