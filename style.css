@@ -14,7 +14,7 @@
     margin-top: 20px;
     margin-bottom: 10px;
     color: #fac50a !important;
-    font-family: Georgia, fantasy;
+   
 }
 
 ._1JRgb {
@@ -60,5 +60,12 @@ background: none;
     margin: 0 0 150px;
     text-align: center;
     position: relative;
+    font-family: Georgia, fantasy;
+}
+.banner-avia h3 {
+    color: #262626;
+    font-family: Georgia, fantasy;
+}
+.text-center {
     font-family: Georgia, fantasy;
 }
