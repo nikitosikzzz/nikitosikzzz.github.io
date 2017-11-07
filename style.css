@@ -63,8 +63,8 @@ background: none;
     font-family: Georgia, fantasy;
 }
 .banner-avia h3 {
-    color: #262626;
-    font-family: Georgia, fantasy;
+  
+    font-family: Georgia, fantasy !important;
 }
 .text-center {
     font-family: Georgia, fantasy;
