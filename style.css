@@ -53,10 +53,11 @@ background: none;
 }
 
 .form-title {
-    color: #fac50a;
+    color: #ffe17a;
     font-size: 35px;
     font-weight: 600;
     margin: 0 0 150px;
     text-align: center;
     position: relative;
+    font-family: Georgia, fantasy;
 }
