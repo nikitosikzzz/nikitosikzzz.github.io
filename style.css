@@ -52,8 +52,4 @@ color: #7d681c;
 background: none;
 }
 
-body.appContainer .form-container, body.appContainer div[data-wl-class~="HotelsIndex__search"], .avia-search-form-wrap {
-    min-height: 500px;
-    padding: 210px 10px;
-    box-sizing: border-box;
-}
+
