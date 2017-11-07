@@ -52,4 +52,11 @@ color: #7d681c;
 background: none;
 }
 
-
+.form-title {
+    color: #fac50a;
+    font-size: 35px;
+    font-weight: 600;
+    margin: 0 0 150px;
+    text-align: center;
+    position: relative;
+}
