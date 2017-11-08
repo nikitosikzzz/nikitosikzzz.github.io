@@ -93,3 +93,7 @@ font-weight: 600;
     font-family: Georgia, fantasy;
 	
 }
+
+[data-wl-class~='HotelPage__header'] {
+    background-color: #ebe7db;
+}
