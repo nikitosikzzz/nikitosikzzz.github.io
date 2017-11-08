@@ -77,9 +77,13 @@ body.appContainer .form-container .form-title {
     color: #ffe17a;
 }
 
-HotelsIndex__main-title {
-    color: #fcd95c;
-	font-size: 35px;
-	font-weight: 600;
-	margin: 0 0 0px;
+body.appContainer div[data-wl-class~=HotelsIndex__main-title] {
+color: #fcd95c;
+font-size: 35px;
+font-weight: 600;
+    margin: 0 0 0px;
+    text-align: center;
+    position: relative;
+    font-family: Georgia, fantasy;
+	
 }
