@@ -69,10 +69,10 @@ background: none;
 .text-center {
     font-family: Georgia, fantasy;
 }
-.banner-wl-block-title {
+body.appContainer .banner-wl-block .banner-wl-block-row .banner-wl-block-col .banner-wl-block-title {
     color: #cc5151;
 }
 
-body.appContainer .banner-wl-block .banner-wl-block-row .banner-wl-block-col .banner-wl-block-title {
+body.appContainer .form-container .form-title {
     color: #ffe17a;
 }
