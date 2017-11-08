@@ -50,7 +50,7 @@ color: #7d681c;
     background-color: #ebebe5 !important; }
 
 .avia-search-form-wrap:before {
-background: none;
+background: rgba(0,0,0,.37);
 }
 
 .form-title {
