@@ -54,10 +54,10 @@ background: none;
 }
 
 .form-title {
-    color: #ffe17a;
+    color: #fcd95c;
     font-size: 35px;
     font-weight: 600;
-    margin: 0 0 150px;
+    margin: 0 0 0px;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
@@ -69,3 +69,10 @@ background: none;
 .text-center {
     font-family: Georgia, fantasy;
 }
+.banner-wl-block-title {
+    color: #cc5151;
+}
+
+body.appContainer .form-container .form-title {
+    color: #ffe17a;
+    
