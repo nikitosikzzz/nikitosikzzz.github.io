@@ -51,9 +51,14 @@ color: #7d681c;
 
 .avia-search-form-wrap:before {
 background: rgba(0,0,0,.37);
-padding: 300px 0px;
-	
+padding: 300px 0px;	
 }
+
+.avia-search-form-wrap 
+{
+padding: 300px 20px;
+}
+
 
 .form-title {
     color: #fcd95c;
