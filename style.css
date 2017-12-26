@@ -51,6 +51,8 @@ color: #7d681c;
 
 .avia-search-form-wrap:before {
 background: rgba(0,0,0,.37);
+padding: 300px 0px;
+	
 }
 
 .form-title {
@@ -96,4 +98,11 @@ font-weight: 600;
 
 [data-wl-class~='HotelPage__header'] {
     background-color: #ebe7db;
+}
+
+.ottwl-header {
+    position: absolute;
+	padding: 64px 0;
+
+
 }
