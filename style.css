@@ -82,7 +82,7 @@ padding: 100px 0px;
 }
 body.appContainer .banner-wl-block .banner-wl-block-row .banner-wl-block-col .banner-wl-block-title {
     color: #cc5151;
-	    line-height: 8;
+	    
 }
 
 body.appContainer .form-container .form-title {
@@ -103,6 +103,7 @@ font-weight: 300;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
+	line-height: 8;
 	
 }
 
