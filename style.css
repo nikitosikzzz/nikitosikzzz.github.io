@@ -102,7 +102,7 @@ font-weight: 600;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
-	line-height: 6;	
+	line-height: 7;	
 }
 [data-wl-class~='HotelPage__header'] {
     background-color: #ebe7db;
@@ -115,7 +115,7 @@ body.appContainer [data-wl-class=App__App] [data-wl-class=App__body]
 {
      padding-top: 0px;
 }
-body.appContainer .form-container:before {
+body.appContainer .form-container .form-title {
 color: #fcd95c;
 font-size: 35px;
 font-weight: 600;
@@ -123,5 +123,5 @@ font-weight: 600;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
-	line-height: 5;
+	line-height: 7;
 }
