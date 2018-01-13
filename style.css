@@ -102,7 +102,7 @@ font-weight: 600;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
-	line-height: 7;	
+	
 }
 [data-wl-class~='HotelPage__header'] {
     background-color: #ebe7db;
@@ -123,5 +123,5 @@ font-weight: 600;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
-	line-height: 7;
+	
 }
