@@ -125,3 +125,9 @@ font-weight: 600;
     font-family: Georgia, fantasy;
 	padding: inherit;
 }
+
+
+.mobile-menu>.btn.btn-lg
+{
+right: 37px;
+}
