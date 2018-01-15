@@ -127,7 +127,7 @@ font-weight: 600;
 }
 
 
-.mobile-menu>.btn.btn-lg
+.btn-group>.btn:first-child
 {
 right: 37px;
 }
