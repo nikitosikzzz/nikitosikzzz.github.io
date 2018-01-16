@@ -71,6 +71,8 @@ padding: 100px 0px;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
+	line-height: 0.9;
+}
 	
 }
 .banner-avia h3 {
@@ -125,6 +127,8 @@ font-weight: 0px;
     position: relative;
     font-family: Georgia, fantasy;
 	padding: inherit;
+	line-height: 0.9;
+}
 }
 
 
