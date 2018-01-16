@@ -93,15 +93,16 @@ font-weight: 600;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
+	line-height: 0.9;
 }
 body.appContainer div[data-wl-class~=HotelsIndex__main-title] {
 color: #fcd95c;
 font-size: 25px;
-font-weight: 0px;
     margin: 0 0 0px;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
+	line-height: 0.9;
 	
 }
 [data-wl-class~='HotelPage__header'] {
