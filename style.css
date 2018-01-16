@@ -131,3 +131,7 @@ font-weight: 600;
 {
 right: 37px;
 }
+
+body{
+    line-height: 0;
+}
