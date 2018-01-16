@@ -126,12 +126,8 @@ font-weight: 0px;
     text-align: center;
     position: relative;
     font-family: Georgia, fantasy;
-	padding: inherit;
-	
+	padding: inherit;	
 }
-}
-
-
 .btn-group>.btn:first-child
 {
 right: 37px;
