@@ -128,12 +128,9 @@ font-weight: 0px;
     font-family: Georgia, fantasy;
 	padding: inherit;	
 }
-.btn-group>.btn:first-child
-{
-right: 37px;
+.btn-group>.btn:first-child{
+right: 6px;
 }
 
-.btn-group>.btn {
-    position: initial;
-}
+
 
