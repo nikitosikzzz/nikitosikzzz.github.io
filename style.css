@@ -134,6 +134,6 @@ right: 37px;
 }
 
 .btn-group>.btn {
-    position: relative;
+    position: initial;
 }
 
