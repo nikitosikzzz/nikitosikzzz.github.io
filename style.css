@@ -1,1 +1,5 @@
+body.appContainer div[data-wl-class~=HotelsIndex__search]:before 
+{
+background: rgba(0,0,0,.0);
 
+}
